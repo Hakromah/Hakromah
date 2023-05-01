@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hakromah
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning java script 
+- 👀 I’m interested in front end development 
+- 🌱 I’m familiar with React.js and JvaScript, and I'm currently improving my java script and React skills on projects. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kkromah12@gmail.com
 
