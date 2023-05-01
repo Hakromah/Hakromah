@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hakromah
+- 👋 Hi, I’m Hassan S Kromah
 - 👀 I’m interested in front end development 
 - 🌱 I’m familiar with React.js and Java script, and I'm currently improving my java script and React.js skills on projects. 
 - 💞️ I’m looking to collaborate on ...
